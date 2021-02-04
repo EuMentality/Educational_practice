@@ -1,2 +1,3 @@
-# Educational_practice-
-Tasks that were completed as part of the trainings
+# Educational_practice
+Здесь продемонстрированы некоторые из работ, которые были выполнены в рамках обучения.
+ 
