@@ -8,7 +8,7 @@
 * Описана разница между полученными распределениями при различных значениях n
 
 
-## [Линейная регрессия](https://nbviewer.jupyter.org/github/EuMentality/Educational_practice/blob/main/notebooks/Linear_Regression.ipynb)
+## [Линейная регрессия](https://nbviewer.jupyter.org/github/EuMentality/Educational_practice/blob/main/notebooks/Linear_regression.ipynb)
 ### Эта работа посвящена линейной регрессии. На примере прогнозирования роста человека по его весу продемонстрирована математика в действии.
 * Подобраны коэффициенты прямой, аппроксимирующей зависимость "Рост" от "Вес" используя библиотеку scipy метод  minimize_scalar.
 * Используя метод оптимизации  L-BFGS-B подобраны коэффициенты экзогенных переменных, которые влияют на "Рост", посредством минимизации MSE. 
@@ -16,7 +16,7 @@
 * Построен 3 - D график зависимости функции ошибки от параметров модели
 
 
-## [Линейная регрессия и стохастический градиентный спуск](https://nbviewer.jupyter.org/github/EuMentality/Educational_practice/blob/main/notebooks/Lin_reg_Gradient_descent.ipynb)
+## [Линейная регрессия и стохастический градиентный спуск](https://nbviewer.jupyter.org/github/EuMentality/Educational_practice/blob/main/notebooks/Lin_reg_Gradient_Descent.ipynb)
 ### Прогнозирование продаж, используя модель Линейной регрессии. Веса переменных подбирались алгоритмами, реализованными только стандартной библиотекой Python & Numpy.
 * Поиск коэффициентов с помощью нормального уравнения
 * Поиск коэффициентов с помощью стохастического градиентного спуска (реализация на Numpy)
