@@ -44,10 +44,9 @@
 * Подбор параметра регуляризации
 * Построение итоговой модели
 
-<p align="justify">
+<div align="center">
   it will not hurt you to smile, dear guest ^^
-</p>
-
+</div>
 
 <p align="center">
   <img width="600" src="33.png">
