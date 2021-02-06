@@ -45,5 +45,5 @@
 * Построение итоговой модели
 
 
-Get a smile ^^
-<img src = "33.png" width = "300">
+### Get a smile ^^
+<img src = "33.png" width = "600">
