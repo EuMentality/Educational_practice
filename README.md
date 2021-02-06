@@ -47,7 +47,7 @@
 
 
 <div align="center">
-### it will not hurt you to smile, dear guest ^^
+  **it will not hurt you to smile, dear guest ^^**
 </div>
 
 <p align="center">
