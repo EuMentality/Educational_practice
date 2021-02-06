@@ -45,5 +45,5 @@
 * Построение итоговой модели
 
 
-<img src = "33.png" width = "100">
-[just fun ^^](33.png 640x200)
+Get a smile ^^
+<img src = "33.png" width = "300">
