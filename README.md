@@ -47,7 +47,7 @@
 
 
 <div align="center">
-  **it will not hurt you to smile, dear guest ^^**
+ Dear Guest, a smile is the secret of happiness ^^
 </div>
 
 <p align="center">
