@@ -51,5 +51,5 @@
 </div>
 
 <p align="center">
-  <img width="600" src="33.png">
+  <img width="400" src="33.png">
 </p>
