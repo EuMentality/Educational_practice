@@ -44,4 +44,4 @@
 * Подбор параметра регуляризации
 * Построение итоговой модели
 
-[](https://github.com/EuMentality/Educational_practice/blob/main/33.png)
+![](33.png)
