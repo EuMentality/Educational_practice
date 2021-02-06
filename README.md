@@ -44,7 +44,11 @@
 * Подбор параметра регуляризации
 * Построение итоговой модели
 
-### it will not hurt you to smile, dear guest ^^
+
+
+<p style="text-align: center;">
+  ### it will not hurt you to smile, dear guest ^^
+</p>
 
 <p align="center">
   <img width="600" src="33.png">
